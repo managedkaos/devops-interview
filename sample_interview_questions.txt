@@ -1,0 +1,41 @@
+How do you define DevOps?  And what does DevOps mean to you?
+
+In your opinion, what are the differences between lean software development, agile software development, and DevOps?
+
+How would you explain continuous integration and continuous delivery?
+
+And what’s your experience with automating deployments?
+
+What are the benefits of using cloud services?
+
+Also, I want you to describe your experience migrating a service from an on-prem datacenter to the cloud.
+
+Can you tell me about your experience with solution architecture?
+
+“What are some benefits of using infrastructure as code?”  Give me an example.
+
+Tell me about your experience with Linux and Windows operating systems.
+
+Why is it important to know how to use command line tools in a DevOps role?
+
+Can you share some examples of the scripting language that you are most proficient with?
+
+What’s your experience with version control tools?
+
+Here’s a scenario: our company’s most important website is down and we’re losing millions of dollars by the minute.  Where do you start?
+
+Describe the worst incident that you’ve experienced.
+
+What are some security measures you consider in development and production environments?
+
+What configuration tools are you most familiar with and how have you used them?
+
+How do you know if something goes wrong in your production environment?
+
+What methods do you use to automate testing?
+
+Our development team wants to move one of our applications from a server based deployment to a container-based deployment.  How would you diagram a CI/CD pipeline for creating the container image and deploying it to a production environment?
+
+Can you tell me why containers are important for DevOps?
+
+Describe an N-tier web architecture.  Make sure the architecture is highly available in all tiers.  Also, describe how you would include security for each tier in your architecture. Go ahead and use the whiteboard.
